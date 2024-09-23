@@ -1,5 +1,5 @@
 ## Sentinel 2 Proyecto PAPIIT Agua
-## Versión inutil hasta que sen2r se actualice  de de alta
+## Versión inutil hasta que sen2r se actualice y se de de alta
 
 #("sen2r", dependencies = TRUE)
 setwd("/home/jf/pCloudDrive/proyectos/PAPIIT2023/Cointzio")
