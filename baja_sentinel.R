@@ -1,5 +1,9 @@
-## Sentinel 2 Proyecto PAPIIT Agua
-## Versión inutil hasta que sen2r se actualice y se de de alta
+## Proyecto PAPIIT Clave IN112823
+## Título Azolvamiento y eutroficación en presas periurbanas de zonas templadas de México: 
+## contribuciones para su evaluación y prospección
+
+
+## Versión inutil hasta que sen2r se actualice y se de de alta, lo que no ocurrio hasta marzo 2026
 
 #("sen2r", dependencies = TRUE)
 setwd("/home/jf/pCloudDrive/proyectos/PAPIIT2023/Cointzio")

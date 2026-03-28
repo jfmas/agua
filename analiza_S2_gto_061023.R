@@ -1,3 +1,7 @@
+## Proyecto PAPIIT Clave IN112823
+## Título Azolvamiento y eutroficación en presas periurbanas de zonas templadas de México: 
+## contribuciones para su evaluación y prospección
+
 ## Indices de calidad del agua con Sentinel 2 de Gto
 ## https://cran.r-project.org/web/packages/waterquality/vignettes/waterquality_vignette.html
 ## https://rdrr.io/github/RAJohansen/waterquality/src/data-raw/01_sentinel.R
